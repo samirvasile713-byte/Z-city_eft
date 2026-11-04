@@ -1,0 +1,17 @@
+{
+  "title": "Z-City",
+  "type": "gamemode",
+  "tags": [
+    "fun",
+    "realism",
+    "roleplay"
+  ],
+  "ignore": [
+    "*.code-workspace",
+    "*_source.txt",
+    "*.dll",
+    "*_things.txt",
+    ".github",
+    ".git"
+  ]
+}
